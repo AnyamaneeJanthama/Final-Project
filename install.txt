@@ -1,0 +1,5 @@
+- install socket.io => npm i socket.io
+
+- install peer => npm i peer
+
+- install uuid => npm i uuid
